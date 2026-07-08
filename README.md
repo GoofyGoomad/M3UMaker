@@ -1,5 +1,5 @@
 # M3UMaker
-A simple CLI written in Python to make m3u files for your playlists.
+A simple CLI script written in Python to make m3u files for your playlists.
 
 It currently only works on Windows, with Linux support coming soon!
 
